@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1673677147 source:e:\kuliah\semester 3\praktikum struktur data\tubes\multiple linked list m-n\tubes_multiple_m_to_n\main.cpp
+	<iostream>
+	"Multiple_M_to_N.h"
+
+1673670753 e:\kuliah\semester 3\praktikum struktur data\tubes\multiple linked list m-n\tubes_multiple_m_to_n\multiple_m_to_n.h
+	<iostream>
+
+1673670768 source:e:\kuliah\semester 3\praktikum struktur data\tubes\multiple linked list m-n\tubes_multiple_m_to_n\multiple_m_to_n.cpp
+	"Multiple_M_to_N.h"
+
